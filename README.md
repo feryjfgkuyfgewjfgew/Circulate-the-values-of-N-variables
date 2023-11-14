@@ -19,6 +19,7 @@ GIVE PRINT STATEMENT TO PRINT THE LIST
 ### Step 6: 
 CALL THE CIRCULATE FUNCTION
 ## Program:
+```
 #program to circulate n variable
 #developed by:naresh.r
 #Registernumber:23005559
@@ -27,6 +28,7 @@ def circulate():
   n=int(input())
   l=l[n:]+l[:n]
   print("After circulating the values are:",l)
+```
 
 ## Output:
 ![Screenshot 2023-11-14 112204](https://github.com/feryjfgkuyfgewjfgew/Circulate-the-values-of-N-variables/assets/150319377/dfa481c0-042b-41ab-9270-7051b5a088df)
